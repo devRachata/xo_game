@@ -1,0 +1,27 @@
+.App {
+  text-align: center;
+  font-size: xx-large;
+}
+
+.table {
+  border-collapse: collapse;
+}
+.st {
+  color: black;
+  width: 200px;
+  height: 200px;
+    font-size: 60px;
+}
+.test {
+  width: 200px;
+  height: 200px;
+    font-size: 60px;
+}
+.button {
+  width: 200px;
+  height: 100px;
+  font-size: 60px;
+}
+.space {
+  height: 20px;
+}
